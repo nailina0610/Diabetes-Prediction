@@ -1,0 +1,2 @@
+Link Deploy: https://huggingface.co/spaces/nailinafarah/Predict-Diabetes
+Link Data: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
